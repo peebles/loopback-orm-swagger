@@ -1,0 +1,16 @@
+{
+  "name": "loopback-orm-swagger",
+  "version": "1.0.0",
+  "description": "Minimal Loopback ORM with Swagger endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loopback",
+    "swagger",
+    "orm"
+  ],
+  "author": "Andrew Peebles (aqpeeb@gmail.com)",
+  "license": "ISC"
+}
